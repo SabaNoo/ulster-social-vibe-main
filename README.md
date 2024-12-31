@@ -1,1 +1,1 @@
-# ulster-social-vibe-main
+# social-vibe-main
